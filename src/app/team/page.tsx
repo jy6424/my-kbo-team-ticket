@@ -14,7 +14,7 @@ export default function TeamPage() {
           <button
             key={slug}
             onClick={() => router.push(`/schedule/${slug}`)}
-            className="p-3 rounded border bg-white hover:bg-blue-100"
+            className="p-3 rounded border bg-white hover:bg-blue-100 cursor-pointer"
           >
             {team.name}
           </button>

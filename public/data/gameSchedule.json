@@ -1,770 +1,945 @@
 [
   {
-    "date": "2025-07-01",
+    "date": "2025-08-01 (금)",
     "time": "18:30",
     "homeTeam": "두산",
-    "awayTeam": "삼성",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-01",
-    "time": "18:30",
-    "homeTeam": "롯데",
-    "awayTeam": "LG",
-    "stadium": "사직"
-  },
-  {
-    "date": "2025-07-01",
-    "time": "18:30",
-    "homeTeam": "KT",
-    "awayTeam": "키움",
-    "stadium": "수원"
-  },
-  {
-    "date": "2025-07-01",
-    "time": "18:30",
-    "homeTeam": "KIA",
     "awayTeam": "SSG",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-01",
-    "time": "18:30",
-    "homeTeam": "한화",
-    "awayTeam": "NC",
-    "stadium": "대전"
-  },
-  {
-    "date": "2025-07-02",
-    "time": "18:30",
-    "homeTeam": "두산",
-    "awayTeam": "삼성",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-02",
-    "time": "18:30",
-    "homeTeam": "롯데",
-    "awayTeam": "LG",
-    "stadium": "사직"
-  },
-  {
-    "date": "2025-07-02",
-    "time": "18:30",
-    "homeTeam": "KT",
-    "awayTeam": "키움",
-    "stadium": "수원"
-  },
-  {
-    "date": "2025-07-02",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "SSG",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-02",
-    "time": "18:30",
-    "homeTeam": "한화",
-    "awayTeam": "NC",
-    "stadium": "대전"
-  },
-  {
-    "date": "2025-07-03",
-    "time": "18:30",
-    "homeTeam": "두산",
-    "awayTeam": "삼성",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-03",
-    "time": "18:30",
-    "homeTeam": "롯데",
-    "awayTeam": "LG",
-    "stadium": "사직"
-  },
-  {
-    "date": "2025-07-03",
-    "time": "18:30",
-    "homeTeam": "KT",
-    "awayTeam": "키움",
-    "stadium": "수원"
-  },
-  {
-    "date": "2025-07-03",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "SSG",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-03",
-    "time": "18:30",
-    "homeTeam": "한화",
-    "awayTeam": "NC",
-    "stadium": "대전"
-  },
-  {
-    "date": "2025-07-04",
-    "time": "18:30",
-    "homeTeam": "두산",
-    "awayTeam": "KT",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-04",
+    "date": "2025-08-01 (금)",
     "time": "18:30",
     "homeTeam": "삼성",
     "awayTeam": "LG",
     "stadium": "대구"
   },
   {
-    "date": "2025-07-04",
+    "date": "2025-08-01 (금)",
     "time": "18:30",
     "homeTeam": "NC",
-    "awayTeam": "SSG",
+    "awayTeam": "KT",
     "stadium": "창원"
   },
   {
-    "date": "2025-07-04",
+    "date": "2025-08-01 (금)",
     "time": "18:30",
     "homeTeam": "KIA",
-    "awayTeam": "롯데",
+    "awayTeam": "한화",
     "stadium": "광주"
   },
   {
-    "date": "2025-07-04",
+    "date": "2025-08-01 (금)",
     "time": "18:30",
     "homeTeam": "키움",
-    "awayTeam": "한화",
+    "awayTeam": "롯데",
     "stadium": "고척"
   },
   {
-    "date": "2025-07-05",
+    "date": "2025-08-02 (토)",
     "time": "18:00",
     "homeTeam": "두산",
-    "awayTeam": "KT",
+    "awayTeam": "SSG",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-05",
+    "date": "2025-08-02 (토)",
     "time": "18:00",
     "homeTeam": "삼성",
     "awayTeam": "LG",
     "stadium": "대구"
   },
   {
-    "date": "2025-07-05",
+    "date": "2025-08-02 (토)",
     "time": "18:00",
     "homeTeam": "NC",
-    "awayTeam": "SSG",
+    "awayTeam": "KT",
     "stadium": "창원"
   },
   {
-    "date": "2025-07-05",
+    "date": "2025-08-02 (토)",
     "time": "18:00",
     "homeTeam": "KIA",
-    "awayTeam": "롯데",
+    "awayTeam": "한화",
     "stadium": "광주"
   },
   {
-    "date": "2025-07-05",
+    "date": "2025-08-02 (토)",
     "time": "18:00",
     "homeTeam": "키움",
-    "awayTeam": "한화",
+    "awayTeam": "롯데",
     "stadium": "고척"
   },
   {
-    "date": "2025-07-06",
+    "date": "2025-08-03 (일)",
     "time": "14:00",
     "homeTeam": "키움",
-    "awayTeam": "한화",
+    "awayTeam": "롯데",
     "stadium": "고척"
   },
   {
-    "date": "2025-07-06",
+    "date": "2025-08-03 (일)",
     "time": "18:00",
     "homeTeam": "두산",
-    "awayTeam": "KT",
+    "awayTeam": "SSG",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-06",
+    "date": "2025-08-03 (일)",
     "time": "18:00",
     "homeTeam": "삼성",
     "awayTeam": "LG",
     "stadium": "대구"
   },
   {
-    "date": "2025-07-06",
+    "date": "2025-08-03 (일)",
     "time": "18:00",
     "homeTeam": "NC",
+    "awayTeam": "KT",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-03 (일)",
+    "time": "18:00",
+    "homeTeam": "KIA",
+    "awayTeam": "한화",
+    "stadium": "광주"
+  },
+  {
+    "date": "2025-08-05 (화)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "두산",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-05 (화)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "삼성",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-05 (화)",
+    "time": "18:30",
+    "homeTeam": "롯데",
+    "awayTeam": "KIA",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-05 (화)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "키움",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-05 (화)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "KT",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-06 (수)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "두산",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-06 (수)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "삼성",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-06 (수)",
+    "time": "18:30",
+    "homeTeam": "롯데",
+    "awayTeam": "KIA",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-06 (수)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "키움",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-06 (수)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "KT",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-07 (목)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "두산",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-07 (목)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "삼성",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-07 (목)",
+    "time": "18:30",
+    "homeTeam": "롯데",
+    "awayTeam": "KIA",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-07 (목)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "키움",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-07 (목)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "KT",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-08 (금)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "한화",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-08 (금)",
+    "time": "18:30",
+    "homeTeam": "롯데",
     "awayTeam": "SSG",
-    "stadium": "창원"
-  },
-  {
-    "date": "2025-07-06",
-    "time": "18:00",
-    "homeTeam": "KIA",
-    "awayTeam": "롯데",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-08",
-    "time": "18:30",
-    "homeTeam": "LG",
-    "awayTeam": "키움",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-08",
-    "time": "18:30",
-    "homeTeam": "SSG",
-    "awayTeam": "KT",
-    "stadium": "문학"
-  },
-  {
-    "date": "2025-07-08",
-    "time": "18:30",
-    "homeTeam": "롯데",
-    "awayTeam": "두산",
     "stadium": "사직"
   },
   {
-    "date": "2025-07-08",
+    "date": "2025-08-08 (금)",
     "time": "18:30",
     "homeTeam": "NC",
-    "awayTeam": "삼성",
-    "stadium": "창원"
-  },
-  {
-    "date": "2025-07-08",
-    "time": "18:30",
-    "homeTeam": "한화",
     "awayTeam": "KIA",
-    "stadium": "대전"
+    "stadium": "창원"
   },
   {
-    "date": "2025-07-09",
+    "date": "2025-08-08 (금)",
     "time": "18:30",
-    "homeTeam": "LG",
-    "awayTeam": "키움",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-09",
-    "time": "18:30",
-    "homeTeam": "SSG",
-    "awayTeam": "KT",
-    "stadium": "문학"
-  },
-  {
-    "date": "2025-07-09",
-    "time": "18:30",
-    "homeTeam": "롯데",
-    "awayTeam": "두산",
-    "stadium": "사직"
-  },
-  {
-    "date": "2025-07-09",
-    "time": "18:30",
-    "homeTeam": "NC",
+    "homeTeam": "KT",
     "awayTeam": "삼성",
-    "stadium": "창원"
-  },
-  {
-    "date": "2025-07-09",
-    "time": "18:30",
-    "homeTeam": "한화",
-    "awayTeam": "KIA",
-    "stadium": "대전"
-  },
-  {
-    "date": "2025-07-10",
-    "time": "18:30",
-    "homeTeam": "LG",
-    "awayTeam": "키움",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-10",
-    "time": "18:30",
-    "homeTeam": "SSG",
-    "awayTeam": "KT",
-    "stadium": "문학"
-  },
-  {
-    "date": "2025-07-10",
-    "time": "18:30",
-    "homeTeam": "롯데",
-    "awayTeam": "두산",
-    "stadium": "사직"
-  },
-  {
-    "date": "2025-07-10",
-    "time": "18:30",
-    "homeTeam": "NC",
-    "awayTeam": "삼성",
-    "stadium": "창원"
-  },
-  {
-    "date": "2025-07-10",
-    "time": "18:30",
-    "homeTeam": "한화",
-    "awayTeam": "KIA",
-    "stadium": "대전"
-  },
-  {
-    "date": "2025-07-17",
-    "time": "18:30",
-    "homeTeam": "LG",
-    "awayTeam": "롯데",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-17",
-    "time": "18:30",
-    "homeTeam": "SSG",
-    "awayTeam": "두산",
-    "stadium": "문학"
-  },
-  {
-    "date": "2025-07-17",
-    "time": "18:30",
-    "homeTeam": "삼성",
-    "awayTeam": "키움",
-    "stadium": "대구"
-  },
-  {
-    "date": "2025-07-17",
-    "time": "18:30",
-    "homeTeam": "KT",
-    "awayTeam": "한화",
     "stadium": "수원"
   },
   {
-    "date": "2025-07-17",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "NC",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-18",
-    "time": "18:30",
-    "homeTeam": "LG",
-    "awayTeam": "롯데",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-18",
-    "time": "18:30",
-    "homeTeam": "SSG",
-    "awayTeam": "두산",
-    "stadium": "문학"
-  },
-  {
-    "date": "2025-07-18",
-    "time": "18:30",
-    "homeTeam": "삼성",
-    "awayTeam": "키움",
-    "stadium": "대구"
-  },
-  {
-    "date": "2025-07-18",
-    "time": "18:30",
-    "homeTeam": "KT",
-    "awayTeam": "한화",
-    "stadium": "수원"
-  },
-  {
-    "date": "2025-07-18",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "NC",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-19",
-    "time": "18:00",
-    "homeTeam": "LG",
-    "awayTeam": "롯데",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-19",
-    "time": "18:00",
-    "homeTeam": "SSG",
-    "awayTeam": "두산",
-    "stadium": "문학"
-  },
-  {
-    "date": "2025-07-19",
-    "time": "18:00",
-    "homeTeam": "삼성",
-    "awayTeam": "키움",
-    "stadium": "대구"
-  },
-  {
-    "date": "2025-07-19",
-    "time": "18:00",
-    "homeTeam": "KT",
-    "awayTeam": "한화",
-    "stadium": "수원"
-  },
-  {
-    "date": "2025-07-19",
-    "time": "18:00",
-    "homeTeam": "KIA",
-    "awayTeam": "NC",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-20",
-    "time": "18:00",
-    "homeTeam": "LG",
-    "awayTeam": "롯데",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-20",
-    "time": "18:00",
-    "homeTeam": "SSG",
-    "awayTeam": "두산",
-    "stadium": "문학"
-  },
-  {
-    "date": "2025-07-20",
-    "time": "18:00",
-    "homeTeam": "삼성",
-    "awayTeam": "키움",
-    "stadium": "대구"
-  },
-  {
-    "date": "2025-07-20",
-    "time": "18:00",
-    "homeTeam": "KT",
-    "awayTeam": "한화",
-    "stadium": "수원"
-  },
-  {
-    "date": "2025-07-20",
-    "time": "18:00",
-    "homeTeam": "KIA",
-    "awayTeam": "NC",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-22",
-    "time": "18:30",
-    "homeTeam": "두산",
-    "awayTeam": "한화",
-    "stadium": "잠실"
-  },
-  {
-    "date": "2025-07-22",
-    "time": "18:30",
-    "homeTeam": "삼성",
-    "awayTeam": "SSG",
-    "stadium": "대구"
-  },
-  {
-    "date": "2025-07-22",
-    "time": "18:30",
-    "homeTeam": "NC",
-    "awayTeam": "KT",
-    "stadium": "창원"
-  },
-  {
-    "date": "2025-07-22",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "LG",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-22",
+    "date": "2025-08-08 (금)",
     "time": "18:30",
     "homeTeam": "키움",
-    "awayTeam": "롯데",
+    "awayTeam": "두산",
     "stadium": "고척"
   },
   {
-    "date": "2025-07-23",
-    "time": "18:30",
-    "homeTeam": "두산",
+    "date": "2025-08-09 (토)",
+    "time": "18:00",
+    "homeTeam": "LG",
     "awayTeam": "한화",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-23",
-    "time": "18:30",
-    "homeTeam": "삼성",
+    "date": "2025-08-09 (토)",
+    "time": "18:00",
+    "homeTeam": "롯데",
     "awayTeam": "SSG",
-    "stadium": "대구"
+    "stadium": "사직"
   },
   {
-    "date": "2025-07-23",
-    "time": "18:30",
+    "date": "2025-08-09 (토)",
+    "time": "18:00",
     "homeTeam": "NC",
-    "awayTeam": "KT",
+    "awayTeam": "KIA",
     "stadium": "창원"
   },
   {
-    "date": "2025-07-23",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "LG",
-    "stadium": "광주"
+    "date": "2025-08-09 (토)",
+    "time": "18:00",
+    "homeTeam": "KT",
+    "awayTeam": "삼성",
+    "stadium": "수원"
   },
   {
-    "date": "2025-07-23",
-    "time": "18:30",
+    "date": "2025-08-09 (토)",
+    "time": "18:00",
     "homeTeam": "키움",
-    "awayTeam": "롯데",
+    "awayTeam": "두산",
     "stadium": "고척"
   },
   {
-    "date": "2025-07-24",
-    "time": "18:30",
-    "homeTeam": "두산",
+    "date": "2025-08-10 (일)",
+    "time": "14:00",
+    "homeTeam": "키움",
+    "awayTeam": "두산",
+    "stadium": "고척"
+  },
+  {
+    "date": "2025-08-10 (일)",
+    "time": "18:00",
+    "homeTeam": "LG",
     "awayTeam": "한화",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-24",
+    "date": "2025-08-10 (일)",
+    "time": "18:00",
+    "homeTeam": "롯데",
+    "awayTeam": "SSG",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-10 (일)",
+    "time": "18:00",
+    "homeTeam": "NC",
+    "awayTeam": "KIA",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-10 (일)",
+    "time": "18:00",
+    "homeTeam": "KT",
+    "awayTeam": "삼성",
+    "stadium": "수원"
+  },
+  {
+    "date": "2025-08-12 (화)",
+    "time": "18:30",
+    "homeTeam": "두산",
+    "awayTeam": "NC",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-12 (화)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "키움",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-12 (화)",
     "time": "18:30",
     "homeTeam": "삼성",
-    "awayTeam": "SSG",
+    "awayTeam": "KIA",
     "stadium": "대구"
   },
   {
-    "date": "2025-07-24",
+    "date": "2025-08-12 (화)",
     "time": "18:30",
+    "homeTeam": "KT",
+    "awayTeam": "LG",
+    "stadium": "수원"
+  },
+  {
+    "date": "2025-08-12 (화)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "롯데",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-13 (수)",
+    "time": "18:30",
+    "homeTeam": "두산",
+    "awayTeam": "NC",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-13 (수)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "키움",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-13 (수)",
+    "time": "18:30",
+    "homeTeam": "삼성",
+    "awayTeam": "KIA",
+    "stadium": "대구"
+  },
+  {
+    "date": "2025-08-13 (수)",
+    "time": "18:30",
+    "homeTeam": "KT",
+    "awayTeam": "LG",
+    "stadium": "수원"
+  },
+  {
+    "date": "2025-08-13 (수)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "롯데",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-14 (목)",
+    "time": "18:30",
+    "homeTeam": "두산",
+    "awayTeam": "NC",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-14 (목)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "키움",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-14 (목)",
+    "time": "18:30",
+    "homeTeam": "삼성",
+    "awayTeam": "KIA",
+    "stadium": "대구"
+  },
+  {
+    "date": "2025-08-14 (목)",
+    "time": "18:30",
+    "homeTeam": "KT",
+    "awayTeam": "LG",
+    "stadium": "수원"
+  },
+  {
+    "date": "2025-08-14 (목)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "롯데",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-15 (금)",
+    "time": "18:00",
+    "homeTeam": "두산",
+    "awayTeam": "KIA",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-15 (금)",
+    "time": "18:00",
+    "homeTeam": "SSG",
+    "awayTeam": "LG",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-15 (금)",
+    "time": "18:00",
+    "homeTeam": "롯데",
+    "awayTeam": "삼성",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-15 (금)",
+    "time": "18:00",
     "homeTeam": "NC",
-    "awayTeam": "KT",
+    "awayTeam": "한화",
     "stadium": "창원"
   },
   {
-    "date": "2025-07-24",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "LG",
-    "stadium": "광주"
-  },
-  {
-    "date": "2025-07-24",
-    "time": "18:30",
+    "date": "2025-08-15 (금)",
+    "time": "18:00",
     "homeTeam": "키움",
-    "awayTeam": "롯데",
+    "awayTeam": "KT",
     "stadium": "고척"
   },
   {
-    "date": "2025-07-25",
-    "time": "18:30",
+    "date": "2025-08-16 (토)",
+    "time": "18:00",
     "homeTeam": "두산",
-    "awayTeam": "LG",
+    "awayTeam": "KIA",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-25",
-    "time": "18:30",
+    "date": "2025-08-16 (토)",
+    "time": "18:00",
+    "homeTeam": "SSG",
+    "awayTeam": "LG",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-16 (토)",
+    "time": "18:00",
     "homeTeam": "롯데",
-    "awayTeam": "KIA",
+    "awayTeam": "삼성",
     "stadium": "사직"
   },
   {
-    "date": "2025-07-25",
-    "time": "18:30",
+    "date": "2025-08-16 (토)",
+    "time": "18:00",
     "homeTeam": "NC",
-    "awayTeam": "키움",
+    "awayTeam": "한화",
     "stadium": "창원"
   },
   {
-    "date": "2025-07-25",
+    "date": "2025-08-16 (토)",
+    "time": "18:00",
+    "homeTeam": "키움",
+    "awayTeam": "KT",
+    "stadium": "고척"
+  },
+  {
+    "date": "2025-08-17 (일)",
+    "time": "14:00",
+    "homeTeam": "키움",
+    "awayTeam": "KT",
+    "stadium": "고척"
+  },
+  {
+    "date": "2025-08-17 (일)",
+    "time": "18:00",
+    "homeTeam": "두산",
+    "awayTeam": "KIA",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-17 (일)",
+    "time": "18:00",
+    "homeTeam": "SSG",
+    "awayTeam": "LG",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-17 (일)",
+    "time": "18:00",
+    "homeTeam": "롯데",
+    "awayTeam": "삼성",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-17 (일)",
+    "time": "18:00",
+    "homeTeam": "NC",
+    "awayTeam": "한화",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-19 (화)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "롯데",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-19 (화)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "삼성",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-19 (화)",
     "time": "18:30",
     "homeTeam": "KT",
-    "awayTeam": "삼성",
+    "awayTeam": "SSG",
     "stadium": "수원"
   },
   {
-    "date": "2025-07-25",
+    "date": "2025-08-19 (화)",
+    "time": "18:30",
+    "homeTeam": "KIA",
+    "awayTeam": "키움",
+    "stadium": "광주"
+  },
+  {
+    "date": "2025-08-19 (화)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "두산",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-20 (수)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "롯데",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-20 (수)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "삼성",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-20 (수)",
+    "time": "18:30",
+    "homeTeam": "KT",
+    "awayTeam": "SSG",
+    "stadium": "수원"
+  },
+  {
+    "date": "2025-08-20 (수)",
+    "time": "18:30",
+    "homeTeam": "KIA",
+    "awayTeam": "키움",
+    "stadium": "광주"
+  },
+  {
+    "date": "2025-08-20 (수)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "두산",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-21 (목)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "롯데",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-21 (목)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "삼성",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-21 (목)",
+    "time": "18:30",
+    "homeTeam": "KT",
+    "awayTeam": "SSG",
+    "stadium": "수원"
+  },
+  {
+    "date": "2025-08-21 (목)",
+    "time": "18:30",
+    "homeTeam": "KIA",
+    "awayTeam": "키움",
+    "stadium": "광주"
+  },
+  {
+    "date": "2025-08-21 (목)",
+    "time": "18:30",
+    "homeTeam": "한화",
+    "awayTeam": "두산",
+    "stadium": "대전"
+  },
+  {
+    "date": "2025-08-22 (금)",
+    "time": "18:30",
+    "homeTeam": "두산",
+    "awayTeam": "KT",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-22 (금)",
+    "time": "18:30",
+    "homeTeam": "삼성",
+    "awayTeam": "키움",
+    "stadium": "대구"
+  },
+  {
+    "date": "2025-08-22 (금)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "롯데",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-22 (금)",
+    "time": "18:30",
+    "homeTeam": "KIA",
+    "awayTeam": "LG",
+    "stadium": "광주"
+  },
+  {
+    "date": "2025-08-22 (금)",
     "time": "18:30",
     "homeTeam": "한화",
     "awayTeam": "SSG",
     "stadium": "대전"
   },
   {
-    "date": "2025-07-26",
+    "date": "2025-08-23 (토)",
     "time": "18:00",
     "homeTeam": "두산",
-    "awayTeam": "LG",
+    "awayTeam": "KT",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-26",
+    "date": "2025-08-23 (토)",
     "time": "18:00",
-    "homeTeam": "롯데",
-    "awayTeam": "KIA",
-    "stadium": "사직"
+    "homeTeam": "삼성",
+    "awayTeam": "키움",
+    "stadium": "대구"
   },
   {
-    "date": "2025-07-26",
+    "date": "2025-08-23 (토)",
     "time": "18:00",
     "homeTeam": "NC",
-    "awayTeam": "키움",
+    "awayTeam": "롯데",
     "stadium": "창원"
   },
   {
-    "date": "2025-07-26",
+    "date": "2025-08-23 (토)",
     "time": "18:00",
-    "homeTeam": "KT",
-    "awayTeam": "삼성",
-    "stadium": "수원"
+    "homeTeam": "KIA",
+    "awayTeam": "LG",
+    "stadium": "광주"
   },
   {
-    "date": "2025-07-26",
+    "date": "2025-08-23 (토)",
     "time": "18:00",
     "homeTeam": "한화",
     "awayTeam": "SSG",
     "stadium": "대전"
   },
   {
-    "date": "2025-07-27",
+    "date": "2025-08-24 (일)",
     "time": "18:00",
     "homeTeam": "두산",
-    "awayTeam": "LG",
+    "awayTeam": "KT",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-27",
+    "date": "2025-08-24 (일)",
     "time": "18:00",
-    "homeTeam": "롯데",
-    "awayTeam": "KIA",
-    "stadium": "사직"
+    "homeTeam": "삼성",
+    "awayTeam": "키움",
+    "stadium": "대구"
   },
   {
-    "date": "2025-07-27",
+    "date": "2025-08-24 (일)",
     "time": "18:00",
     "homeTeam": "NC",
-    "awayTeam": "키움",
+    "awayTeam": "롯데",
     "stadium": "창원"
   },
   {
-    "date": "2025-07-27",
+    "date": "2025-08-24 (일)",
     "time": "18:00",
-    "homeTeam": "KT",
-    "awayTeam": "삼성",
-    "stadium": "수원"
+    "homeTeam": "KIA",
+    "awayTeam": "LG",
+    "stadium": "광주"
   },
   {
-    "date": "2025-07-27",
+    "date": "2025-08-24 (일)",
     "time": "18:00",
     "homeTeam": "한화",
     "awayTeam": "SSG",
     "stadium": "대전"
   },
   {
-    "date": "2025-07-29",
+    "date": "2025-08-26 (화)",
     "time": "18:30",
-    "homeTeam": "LG",
-    "awayTeam": "KT",
+    "homeTeam": "두산",
+    "awayTeam": "삼성",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-29",
+    "date": "2025-08-26 (화)",
     "time": "18:30",
     "homeTeam": "SSG",
-    "awayTeam": "키움",
+    "awayTeam": "KIA",
     "stadium": "문학"
   },
   {
-    "date": "2025-07-29",
+    "date": "2025-08-26 (화)",
     "time": "18:30",
     "homeTeam": "롯데",
-    "awayTeam": "NC",
+    "awayTeam": "KT",
     "stadium": "사직"
   },
   {
-    "date": "2025-07-29",
+    "date": "2025-08-26 (화)",
     "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "두산",
-    "stadium": "광주"
+    "homeTeam": "NC",
+    "awayTeam": "LG",
+    "stadium": "창원"
   },
   {
-    "date": "2025-07-29",
+    "date": "2025-08-26 (화)",
+    "time": "18:30",
+    "homeTeam": "키움",
+    "awayTeam": "한화",
+    "stadium": "고척"
+  },
+  {
+    "date": "2025-08-27 (수)",
+    "time": "18:30",
+    "homeTeam": "두산",
+    "awayTeam": "삼성",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-27 (수)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "KIA",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-27 (수)",
+    "time": "18:30",
+    "homeTeam": "롯데",
+    "awayTeam": "KT",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-27 (수)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "LG",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-27 (수)",
+    "time": "18:30",
+    "homeTeam": "키움",
+    "awayTeam": "한화",
+    "stadium": "고척"
+  },
+  {
+    "date": "2025-08-28 (목)",
+    "time": "18:30",
+    "homeTeam": "두산",
+    "awayTeam": "삼성",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-28 (목)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "KIA",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-28 (목)",
+    "time": "18:30",
+    "homeTeam": "롯데",
+    "awayTeam": "KT",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-28 (목)",
+    "time": "18:30",
+    "homeTeam": "NC",
+    "awayTeam": "LG",
+    "stadium": "창원"
+  },
+  {
+    "date": "2025-08-28 (목)",
+    "time": "18:30",
+    "homeTeam": "키움",
+    "awayTeam": "한화",
+    "stadium": "고척"
+  },
+  {
+    "date": "2025-08-29 (금)",
+    "time": "18:30",
+    "homeTeam": "LG",
+    "awayTeam": "키움",
+    "stadium": "잠실"
+  },
+  {
+    "date": "2025-08-29 (금)",
+    "time": "18:30",
+    "homeTeam": "SSG",
+    "awayTeam": "NC",
+    "stadium": "문학"
+  },
+  {
+    "date": "2025-08-29 (금)",
+    "time": "18:30",
+    "homeTeam": "롯데",
+    "awayTeam": "두산",
+    "stadium": "사직"
+  },
+  {
+    "date": "2025-08-29 (금)",
+    "time": "18:30",
+    "homeTeam": "KT",
+    "awayTeam": "KIA",
+    "stadium": "수원"
+  },
+  {
+    "date": "2025-08-29 (금)",
     "time": "18:30",
     "homeTeam": "한화",
     "awayTeam": "삼성",
     "stadium": "대전"
   },
   {
-    "date": "2025-07-30",
-    "time": "18:30",
+    "date": "2025-08-30 (토)",
+    "time": "18:00",
     "homeTeam": "LG",
-    "awayTeam": "KT",
+    "awayTeam": "키움",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-30",
-    "time": "18:30",
+    "date": "2025-08-30 (토)",
+    "time": "18:00",
     "homeTeam": "SSG",
-    "awayTeam": "키움",
+    "awayTeam": "NC",
     "stadium": "문학"
   },
   {
-    "date": "2025-07-30",
-    "time": "18:30",
+    "date": "2025-08-30 (토)",
+    "time": "18:00",
     "homeTeam": "롯데",
-    "awayTeam": "NC",
+    "awayTeam": "두산",
     "stadium": "사직"
   },
   {
-    "date": "2025-07-30",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "두산",
-    "stadium": "광주"
+    "date": "2025-08-30 (토)",
+    "time": "18:00",
+    "homeTeam": "KT",
+    "awayTeam": "KIA",
+    "stadium": "수원"
   },
   {
-    "date": "2025-07-30",
-    "time": "18:30",
+    "date": "2025-08-30 (토)",
+    "time": "18:00",
     "homeTeam": "한화",
     "awayTeam": "삼성",
     "stadium": "대전"
   },
   {
-    "date": "2025-07-31",
-    "time": "18:30",
+    "date": "2025-08-31 (일)",
+    "time": "18:00",
     "homeTeam": "LG",
-    "awayTeam": "KT",
+    "awayTeam": "키움",
     "stadium": "잠실"
   },
   {
-    "date": "2025-07-31",
-    "time": "18:30",
+    "date": "2025-08-31 (일)",
+    "time": "18:00",
     "homeTeam": "SSG",
-    "awayTeam": "키움",
+    "awayTeam": "NC",
     "stadium": "문학"
   },
   {
-    "date": "2025-07-31",
-    "time": "18:30",
+    "date": "2025-08-31 (일)",
+    "time": "18:00",
     "homeTeam": "롯데",
-    "awayTeam": "NC",
+    "awayTeam": "두산",
     "stadium": "사직"
   },
   {
-    "date": "2025-07-31",
-    "time": "18:30",
-    "homeTeam": "KIA",
-    "awayTeam": "두산",
-    "stadium": "광주"
+    "date": "2025-08-31 (일)",
+    "time": "18:00",
+    "homeTeam": "KT",
+    "awayTeam": "KIA",
+    "stadium": "수원"
   },
   {
-    "date": "2025-07-31",
-    "time": "18:30",
+    "date": "2025-08-31 (일)",
+    "time": "18:00",
     "homeTeam": "한화",
     "awayTeam": "삼성",
     "stadium": "대전"

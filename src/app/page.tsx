@@ -10,7 +10,7 @@ export default function Home() {
         응원팀을 선택하고 원정 경기 예매처를 한눈에 확인해보세요!
       </p>
       <Link href="/team">
-        <button className="bg-blue-500 text-white px-4 py-2 rounded">
+        <button className="bg-blue-500 text-white px-4 py-2 rounded cursor-pointer">
           응원팀 선택하러 가기
         </button>
       </Link>

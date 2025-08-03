@@ -40,12 +40,13 @@ import path from "path";
       // 날짜 정보가 있는 경우
       if ($(tds[0]).hasClass("day")) {
         const rawDate = $(tds[0]).text().trim(); // 예: "07.01(화)"
-        const match = rawDate.match(/(\d{2})\.(\d{2})/);
+        const match = rawDate.match(/(\d{2})\.(\d{2})\((.)\)/); // 요일까지 포함
         if (match) {
           const year = "2025";
           const dateMonth = match[1]; // 여기 이름 바꿈 (중복 방지)
           const dateDay = match[2];
-          currentDate = `${year}-${dateMonth}-${dateDay}`;
+          const dateWeek = match[3];
+          currentDate = `${year}-${dateMonth}-${dateDay} (${dateWeek})`;
         }
       }
 
