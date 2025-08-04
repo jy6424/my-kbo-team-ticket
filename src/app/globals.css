@@ -42,6 +42,8 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: "KBOFontMedium", "KBOFontBold", sans-serif;
+  font-size: 20px; /* 또는 17px, 18px로 조정 가능 */
+  line-height: 1.5;
 }
 /* 캘린더 타이틀: "August 2025" */
 .fc .fc-toolbar-title {

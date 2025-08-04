@@ -76,7 +76,7 @@ export default function TeamSchedulePage() {
   return (
     <main className="p-4">
       <div className="flex items-center justify-between mb-4">
-        <h1 className="text-xl font-bold">{teamInfo.name} 경기 일정</h1>
+        <h1 className="text-3xl font-bold">{teamInfo.name} 경기 일정</h1>
         <Link href="/team">
           <button className="text-sm text-blue-600 underline hover:text-blue-800 cursor-pointer">
             ← 팀 선택
@@ -98,19 +98,19 @@ export default function TeamSchedulePage() {
           const [homePart, awayPart] = arg.event.title.split(" vs ");
 
           return (
-            <div className="text-[10px] sm:text-[12px] leading-snug p-1">
+            <div className="text-[10px] sm:text-lg leading-snug p-1">
               <div className="font-medium text-black break-words whitespace-normal">
                 <div>{homePart}</div>
-                <div className="text-[10px] sm:text-[12px]">vs {awayPart}</div>
+                <div className="text-[10px] sm:text-lg">vs {awayPart}</div>
               </div>
-              <div className="text-[9px] sm:text-[11px] text-gray-600">
+              <div className="text-[9px] sm:text-[14px] text-gray-600">
                 {time}
               </div>
 
               {isPast ? (
                 <button
                   disabled
-                  className="bg-gray-300 text-gray-500 px-1 py-0.5 rounded text-[9px] sm:text-[11px] cursor-not-allowed"
+                  className="relative top-[4px] bg-gray-300 text-gray-500 px-1 py-1 rounded text-[9px] sm:text-[14px] cursor-not-allowed"
                 >
                   예매 종료
                 </button>
@@ -119,7 +119,7 @@ export default function TeamSchedulePage() {
                   href={ticketLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-blue-500 text-white px-1 py-0.5 rounded text-[9px] sm:text-[11px] hover:bg-blue-600"
+                  className="relative top-[4px] bg-blue-500 text-white px-1 py-1 rounded text-[9px] sm:text-[14px] hover:bg-blue-600"
                 >
                   예매하기
                 </a>
@@ -128,7 +128,7 @@ export default function TeamSchedulePage() {
                   href={ticketLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-blue-300 text-white px-1 py-0.5 rounded text-[9px] sm:text-[11px] hover:bg-blue-400"
+                  className="relative top-[4px] bg-blue-300 text-white px-1 py-1 rounded text-[9px] sm:text-[14px] hover:bg-blue-400"
                 >
                   오픈예정
                 </a>
