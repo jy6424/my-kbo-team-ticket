@@ -92,24 +92,34 @@ export default function TeamSchedulePage() {
         eventContent={(arg) => {
           const { time, ticketLink } = arg.event.extendedProps;
           const isPast = isPastDate(arg.event.startStr);
+          const isOpenSoon = isWithinAWeek(arg.event.startStr);
+
+          // "vs" 기준으로 텍스트 분리
+          const [homePart, awayPart] = arg.event.title.split(" vs ");
 
           return (
-            <div className="text-sm leading-snug p-1">
-              <div className="text-black">{arg.event.title}</div>
-              <div className="text-xs text-gray-600">{time}</div>
+            <div className="text-[10px] sm:text-[12px] leading-snug p-1">
+              <div className="font-medium text-black break-words whitespace-normal">
+                <div>{homePart}</div>
+                <div className="text-[10px] sm:text-[12px]">vs {awayPart}</div>
+              </div>
+              <div className="text-[9px] sm:text-[11px] text-gray-600">
+                {time}
+              </div>
+
               {isPast ? (
                 <button
                   disabled
-                  className="bg-gray-300 text-gray-500 px-2 py-1 rounded text-[10px] cursor-not-allowed"
+                  className="bg-gray-300 text-gray-500 px-1 py-0.5 rounded text-[9px] sm:text-[11px] cursor-not-allowed"
                 >
                   예매 종료
                 </button>
-              ) : isWithinAWeek(arg.event.startStr) ? (
+              ) : isOpenSoon ? (
                 <a
                   href={ticketLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-blue-400 text-white px-2 py-1 rounded text-[10px] hover:bg-blue-500"
+                  className="bg-blue-500 text-white px-1 py-0.5 rounded text-[9px] sm:text-[11px] hover:bg-blue-600"
                 >
                   예매하기
                 </a>
@@ -118,7 +128,7 @@ export default function TeamSchedulePage() {
                   href={ticketLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-gray-400 text-white px-2 py-1 rounded text-[10px] hover:bg-gray-500"
+                  className="bg-blue-300 text-white px-1 py-0.5 rounded text-[9px] sm:text-[11px] hover:bg-blue-400"
                 >
                   오픈예정
                 </a>
